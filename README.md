@@ -29,3 +29,5 @@ We can deduce from the above images that the refactored code had a significant d
 
 When not done right, refactoring could alter the outcome achieved by the original code. Troubleshooting may take a while if the necessary steps weren’t taken to safeguard the original code.
 
+
+![SCRIPT](https://user-images.githubusercontent.com/102786356/164884384-d7885ece-79fa-4300-b898-bd467d3e4b78.png)
