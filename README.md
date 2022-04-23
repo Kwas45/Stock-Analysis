@@ -21,7 +21,7 @@ ENPH and RUN were the only stocks to have positive returns for 2017 and 2018 wit
 ENPH has been the most stable stock.   
 
 
-#### ****_EXECUTION TIME_****
+#### ****_EXECUTION TIMES_****
 
 ![EXECUTION TIME](https://user-images.githubusercontent.com/102786356/164884268-0895e2f7-e080-4fbc-b2c6-a5395baf67e7.png)
 
